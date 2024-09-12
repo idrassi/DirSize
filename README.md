@@ -46,6 +46,10 @@ The program provides the following information:
 - (If -details is used) A list of all entries in the directory with their sizes
 - (If -sort is used) The list is sorted by size in descending order
 
+## Screenshot
+
+![detailed listing with sorting](images/screenshot.png)
+
 ## Requirements
 
 - MonoRing distribution of the Ring programming language (https://github.com/idrassi/MonoRing/releases)
