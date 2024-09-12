@@ -52,8 +52,8 @@ The program provides the following information:
 
 ## Requirements
 
-- MonoRing distribution of the Ring programming language (https://github.com/idrassi/MonoRing/releases)
-- 
+- Ring programming language (https://ring-lang.github.io)
+- MonoRing distribtion of Ring is recommended for static build (https://github.com/idrassi/MonoRing)
 
 ## Installation
 
